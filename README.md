@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParamSingh7
-- 👀 I’m interested in coding & data analysis.
+- 👀 I’m interested in coding & data science
 - 🌱 I’m currently learning python, R
-- 💞️ I’m looking to collaborate on projects related to python, R, data visualization.
+- 💞️ I’m looking to collaborate on projects related to python, R, data visualization
 - 📫 How to reach me - 7paramsingh7@gmail.com
 
 <!---
